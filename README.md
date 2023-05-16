@@ -1,4 +1,4 @@
-!Next.js Notes App
+Next.js Notes App
 This repository contains a practice project aimed at learning Next.js 13, a popular React framework for building server-side rendered applications. The project involves creating a notes app using PocketDB as the backend.
 
 Project Overview
